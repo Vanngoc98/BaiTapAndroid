@@ -1,7 +1,7 @@
 # BaiTapAndroid
 Nơi Lưu Trữ Các Bài Tập Androi </br>
 |   Bài Tập     |               |       |                                           |Chú Thích|        |
-| ------------- |:-------------:|-----: |                                           |         |        |
+| ------------- |:-------------:| -----:|
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 |[Bài 1 :Hello](https://github.com/Vanngoc98/Hello/tree/master)                     |         |        |
