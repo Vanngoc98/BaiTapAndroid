@@ -1,6 +1,6 @@
 # BaiTapAndroid
 Nơi Lưu Trữ Các Bài Tập Androi </br>
-| Bài Tập                          |                                         |Chú Thích|        |
+| Bài Tập                                                                           |Chú Thích| Cool   |
 | ------------- |:-------------:| -----:|
 |[Bài 1 :Hello](https://github.com/Vanngoc98/Hello/tree/master)                     |         |        |
 | ------------- |:-------------:| -----:|
