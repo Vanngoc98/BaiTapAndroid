@@ -2,7 +2,7 @@
 Nơi Lưu Trữ Các Bài Tập Androi </br>
 |    Bài Tập                                                                                                     |Bài Kham Khảo  |         |
 | ------------- |:-------------:| -----:|
-|[Bài 1 :Hello](https://github.com/Vanngoc98/Hello)                                                              |[Bài làm Quen ASP.Net](https://github.com/TranNgocMinh/ASP.NET-4.5/blob/master/L%C3%A0m%20quen%20ASP.NET%20v%E1%BB%9Bi%20VS%202019%20Community%20v%C3%A0%20Windows%2010.pdf)               |         |
+|[Bài 1 :Hello](https://github.com/Vanngoc98/Hello)                                                              |[Bài làm Quen ASP.Net](https://github.com/TranNgocMinh/ASP.NET-4.5/blob/master/L%C3%A0m%20quen%20ASP.NET%20v%E1%BB%9Bi%20VS%202019%20Community%20v%C3%A0%20Windows%2010.pdf)    |         |
 |[Bài 2 : Event](https://github.com/Vanngoc98/BaiTap-Su-ly-su-kien)                                              |               |         |
 |[Bài 3 : ThayDoiGiaoDienNguoiDung](https://github.com/Vanngoc98/ThayDoiGiaoDienNguoiDung)                       |               |         |                                       
 |[Bài 4 : ThuyetKeGiaoDienNguoiDung](https://github.com/Vanngoc98/BaiTap-Thiet-ke-giao-dien-nguoi-dung)          |               |         |        
