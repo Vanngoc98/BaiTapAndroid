@@ -4,8 +4,8 @@ Nơi Lưu Trữ Các Bài Tập Androi </br>
 | ------------- |:-------------:| -----:|
 |[Bài 1 :Hello](https://github.com/Vanngoc98/Hello)                                                              |           |         |
 |[Bài 2 : Event](https://github.com/Vanngoc98/BaiTap-Su-ly-su-kien)                                              |           |         |
-|[Bài 3 : ThayDoiGiaoDienNguoiDung](https://Bai1_ThayDoiGiaoDienNguoiDung)                                       |           |         |
-|[Bài 4 : ThayDoiGiaoDienNguoiDung](https://Bai1_ThayDoiGiaoDienNguoiDung)                                       |           |         |
+|[Bài 3 : ThayDoiGiaoDienNguoiDung](https://github.com/Vanngoc98/ThayDoiGiaoDienNguoiDung)                       |           |         |
+                                                                                                                 |           |         |
 |[Bài 5 : ThuyetKeGiaoDienNguoiDung](https://github.com/Vanngoc98/BaiTap-Thiet-ke-giao-dien-nguoi-dung)          |           |         |        
 |[Bài 6 : CommonGesturesActivity](https://github.com/Vanngoc98/CommonGesturesActivity)                           |           |         |        
 |[Bài 7 : FragmentExampleActivtiy](https://github.com/Vanngoc98/FragmentExampleActivtiy)                         |           |         |        
