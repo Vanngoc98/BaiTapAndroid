@@ -17,5 +17,5 @@ Nơi Lưu Trữ Các Bài Tập Androi </br>
 |[Bài 13 : SQLiteDemoApplicationActivity](https://github.com/Vanngoc98/SQLiteDemoApplicationActivity)          |22/07/2020   |
 
                                                                                                                    
-                                                          Chữ Ký
-                                                                 ๖ۣۜDark๖ۣۜNoname๖ۣۜ 
+                                               Chữ Ký
+                                             ๖ۣۜDark๖ۣۜNoname๖ۣۜ 
